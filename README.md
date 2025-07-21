@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hello! everyone, I`m <ins>*Sugeng*</ins>
+--- 
+### A passionate Student from Indonesia :star:
+---
+## ✨U Must Know Me
 
-<!--
-**SugengPermana/SugengPermana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻I`m A Fullstack Developer
+- 🌱 I’m currently learning **JavaScript**, **Python**, **PHP**.
+- ⚡can use framework **React**, **boostrap**, **laravel**.
+- 🎯 Fokused Frontend & Backend Development.
+- 📫Reach me at: (sugengpermanadesemrby@gmail.com)
+---
