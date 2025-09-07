@@ -22,6 +22,12 @@ jobs:
           outputs: |
             dist/snake.svg
 
+            palette: |
+            background=#000000
+            snake=#800080
+            apple=#ff0000
+            pixel=#00ff00
+
       - name: Upload Snake to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
