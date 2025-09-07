@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sugeng Permana</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">Hii! Welcome To My Github Landing Page</h1>
+<h3 align="center">I`m Sugeng, I Currenly focused FrontEnd-Engineer with building clean, Responsive and scalable aplications.</h3>
 
-- 📫 How to reach me **sugengpermanadesemrby@gmail.com**
+- 👨‍💻I'm working on a Personal Website **Landing page, Company profile, E-commerce**
 
 - 🌱 I’m currently learning **Javascript,React,Next.js,Tailwind**
 
-- 👨‍💻 All of my projects are available at **My Github**
+- 📫 Reach me at **sugengpermanadesembry@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact **Iam batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
