@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule:
@@ -11,24 +11,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
+          github_user_name: sugengpermana
+          outputs: dist/pacman.svg
+          theme: pacman
 
-            palette: |
-            background=#000000
-            snake=#800080
-            apple=#ff0000
-            pixel=#00ff00
-
-      - name: Upload Snake to GitHub Pages
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
