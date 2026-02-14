@@ -98,4 +98,5 @@ Currently exploring AI integration and workflow automation.
 
 <hr/>
 
-[![](https://visitcount.itsvg.in/api?id=sugengpermana&icon=0&color=8)](https://visitcount.itsvg.in)
+![snake animation](https://github.com/sugengpermana/sugengpermana/blob/output/github-contribution-grid-snake-dark.svg)
+
