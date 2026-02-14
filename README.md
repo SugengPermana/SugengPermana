@@ -98,5 +98,7 @@ Currently exploring AI integration and workflow automation.
 
 <hr/>
 
-![snake animation](https://github.com/sugengpermana/sugengpermana/blob/output/github-contribution-grid-snake-dark.svg)
+## 👾 Contribution Pacman
+
+![pacman](https://raw.githubusercontent.com/sugengpermana/sugengpermana/output/pacman.svg)
 
