@@ -38,7 +38,7 @@ Currently exploring AI integration and workflow automation.
 ## 🧠 Tech Stack
 
 <div align="center">
-### 🎨 Frontend
+Frontend Development 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,7 +50,7 @@ Currently exploring AI integration and workflow automation.
 ---
 
 <div align="center">
-### ⚙ Backend
+Backend Development
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -62,7 +62,7 @@ Currently exploring AI integration and workflow automation.
 ---
 
 <div align="center">
-### 💻 Languages
+Languages Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -74,7 +74,7 @@ Currently exploring AI integration and workflow automation.
 ---
 
 <div align="center">
-### 🚀 Deployment
+Deployment
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
