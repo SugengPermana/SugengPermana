@@ -7,13 +7,13 @@
 <br/>
 
 <a href="https://instagram.com/sgprmna_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/sugengpermanadesembry" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://yourwebsite.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
@@ -24,51 +24,59 @@
 
 I am a **Frontend Engineer** with 1+ years of experience building modern web applications.
 
-I focus on creating scalable, clean, and user-friendly digital products.  
-Passionate about performance optimization, UI/UX detail, and automation systems.
+I specialize in building scalable web apps with clean UI, optimized performance, and automation-driven systems.  
+Currently exploring AI integration and workflow automation.
 
-### 🔥 What I Do:
+### 🔥 What I Do
 
-- 📚 Building Web Applications like **Book App** and **E-commerce**
-- 🤖 Building AI Chatbots with OpenAI
-- ⚡ Creating automation systems for productivity
+- 📚 Building Website Applications like **Book App** and **E-commerce**
+- 🤖 Building AI Chatbot with OpenAI
+- ⚡ Creating AI automation systems for productivity
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2300FFFF.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=cyan)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2300FFFF.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
-![DaisyUI](https://img.shields.io/badge/daisyui-000?style=for-the-badge&logo=daisyui&logoColor=cyan)
-
-### ⚙ Backend
-![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=cyan)
-![Express.js](https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=cyan)
-![Laravel](https://img.shields.io/badge/laravel-000?style=for-the-badge&logo=laravel&logoColor=cyan)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma&logoColor=cyan)
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=cyan)
-![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=cyan)
-![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=cyan)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=cyan)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=cyan)
-![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=cyan)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=cyan)
-![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=cyan)
-
-### 🚀 Deployment
-![Vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=cyan)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=cyan)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?style=for-the-badge&logo=google-cloud&logoColor=cyan)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
+### ⚙ Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/ExpressJS-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+---
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sugengpermana&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=sugengpermana&theme=aura&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sugengpermana&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
