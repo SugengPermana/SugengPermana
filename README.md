@@ -18,7 +18,7 @@
 
 </div>
 
----
+<hr/>
 
 ## 🚀 About Me
 
@@ -33,71 +33,69 @@ Currently exploring AI integration and workflow automation.
 - 🤖 Building AI Chatbot with OpenAI
 - ⚡ Creating AI automation systems for productivity
 
----
+<hr/>
 
 ## 🧠 Tech Stack
 
 <div align="center">
-Frontend Development 
 
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-</div>
-
 ---
 
-<div align="center">
-Backend Development
-
+### ⚙ Backend
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-</div>
-
 ---
 
-<div align="center">
-Languages Stack
-
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</div>
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-<div align="center">
-Deployment
+### 🛠 Tools
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-A020F0?style=for-the-badge)
 
+---
+
+### 🚀 Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
 
----
+<hr/>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sugengpermana&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=sugengpermana&theme=aura&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sugengpermana&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<hr/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sugengpermana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+<hr/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+<hr/>
+
 [![](https://visitcount.itsvg.in/api?id=sugengpermana&icon=0&color=8)](https://visitcount.itsvg.in)
