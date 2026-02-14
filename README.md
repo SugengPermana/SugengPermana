@@ -37,8 +37,8 @@ Currently exploring AI integration and workflow automation.
 
 ## 🧠 Tech Stack
 
-### 🎨 Frontend
 <div align="center">
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -49,8 +49,8 @@ Currently exploring AI integration and workflow automation.
 
 ---
 
-### ⚙ Backend
 <div align="center">
+### ⚙ Backend
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -61,8 +61,8 @@ Currently exploring AI integration and workflow automation.
 
 ---
 
-### 💻 Languages
 <div align="center">
+### 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -73,8 +73,8 @@ Currently exploring AI integration and workflow automation.
 
 ---
 
-### 🚀 Deployment
 <div align="center">
+### 🚀 Deployment
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -100,4 +100,4 @@ Currently exploring AI integration and workflow automation.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=sugengpermana&icon=0&color=8)](https://visitcount.itsvg.in)
