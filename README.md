@@ -2,7 +2,7 @@
 
 # 👋 Heyy, I'm Sugeng
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Frontend+Development;Backend+Development;Cloud+Engineer;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Cloud+Engineer;" />
 
 <br/>
 
