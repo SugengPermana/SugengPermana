@@ -43,7 +43,6 @@ Currently exploring AI integration and workflow automation.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ---
 
@@ -78,18 +77,6 @@ Currently exploring AI integration and workflow automation.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
-
-<hr/>
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sugengpermana&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=sugengpermana&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sugengpermana&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<hr/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sugengpermana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr/>
 
