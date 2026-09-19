@@ -6,13 +6,15 @@
 
 <br/>
 
+<h1>My Sosial Media</h1>
+
 <a href="https://instagram.com/sgprmna_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/sugengpermanadesembry" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://yourwebsite.com" target="_blank">
+<a href="https://sugengpermanad.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -22,16 +24,12 @@
 
 ## 🚀 About Me
 
-I am a **Frontend Engineer** with 1+ years of experience building modern web applications.
+I'm a Junior Fullstack developer based in Bogor. Coming from a tourism background with zero knowledge of coding, I started learning technology independently by building simple projects. Along the way, I became interested in how applications are built from scratch and turned into something useful. I'm involved in every step of the process: from discovery and design to development, testing, and deployment. I focus on delixvering high-quality, scalable results that drive positive user experiences.
+
+I specialize in creating seamless and intuitive user experiences.Recently, I’ve been expanding my knowledge into Cloud Computing, especially AWS and Google Cloud to better understand how applications are deployed and managed in a real production environment.
 
 I specialize in building scalable web apps with clean UI, optimized performance, and automation-driven systems.  
 Currently exploring AI integration and workflow automation.
-
-### 🔥 What I Do
-
-- 📚 Building Website Applications like **Book App** and **E-commerce**
-- 🤖 Building AI Chatbot with OpenAI
-- ⚡ Creating AI automation systems for productivity
 
 <hr/>
 
